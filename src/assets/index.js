@@ -7,11 +7,11 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-// import css from "./tech/css.png";
+import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
-// import html from "./tech/html.png";
+import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
@@ -23,12 +23,17 @@ import threejs from "./tech/threejs.svg";
 
 import upwork from "./company/upwork.png";
 import depi from "./company/depi.png";
+import neuronetix from "./company/neuronetix.png";
 
 import nike from './Nike.png'
 import typingSpeedGame from './TypingSpeedGame.png'
 import XO from './XO.png'
 
+import firstPerson from './firstPerson.png'
+import secondPerson from './secondPerson.png'
 export {
+  firstPerson,
+  secondPerson,
   logo,
   backend,
   creator,
@@ -37,11 +42,11 @@ export {
   github,
   menu,
   close,
-  // css,
+  css,
   docker,
   figma,
   git,
-  // html,
+  html,
   javascript,
   mongodb,
   nodejs,
@@ -54,5 +59,6 @@ export {
   typingSpeedGame,
   XO,
   upwork,
+  neuronetix,
   depi,
 };
