@@ -26,8 +26,8 @@ import depi from "./company/depi.png";
 import neuronetix from "./company/neuronetix.png";
 
 import nike from './Nike.png'
-import typingSpeedGame from './TypingSpeedGame.png'
 import XO from './XO.png'
+import hooBank from './HooBank.png'
 
 import firstPerson from './firstPerson.png'
 import secondPerson from './secondPerson.png'
@@ -56,7 +56,7 @@ export {
   typescript,
   threejs,
   nike,
-  typingSpeedGame,
+  hooBank,
   XO,
   upwork,
   neuronetix,
