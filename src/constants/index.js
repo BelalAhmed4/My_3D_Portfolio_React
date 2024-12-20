@@ -101,18 +101,6 @@ const technologies = [
 ];
 
 const experiences = [
-
-  {
-    title: "Front-end Internship Trainee",
-    company_name: "Digital Egypt Pioneers Initiative DEPI",
-    icon: depi,
-    iconBg: "#E6DEDD",
-    date: "Mar 2024 - present",
-    points: [
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
   {
     title: "React.js Developer",
     company_name: "Upwork",
@@ -124,11 +112,22 @@ const experiences = [
     ],
   },
   {
+    title: "Front-end Internship Trainee",
+    company_name: "Digital Egypt Pioneers Initiative DEPI",
+    icon: depi,
+    iconBg: "#E6DEDD",
+    date: "Mar 2024 - Oct 2024",
+    points: [
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
     title: "MERN Internship Trainee",
     company_name: "Neuronetix",
     icon: neuronetix,
     iconBg: "#383E56",
-    date: "Aug 2024 - Present",
+    date: "Aug 2024 - Aug 2024",
     points: [
       "Collaborating with the development team to design and implement RESTful APIs, ensuring seamless communication between the frontend and backend.",
       "Optimizing application performance through techniques like lazy loading, code splitting, and efficient state management.",
